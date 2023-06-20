@@ -1,0 +1,15 @@
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\bin\Debug\net6.0\Ex001_HelloWorld.exe
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\bin\Debug\net6.0\Ex001_HelloWorld.deps.json
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\bin\Debug\net6.0\Ex001_HelloWorld.runtimeconfig.json
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\bin\Debug\net6.0\Ex001_HelloWorld.dll
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\bin\Debug\net6.0\Ex001_HelloWorld.pdb
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.AssemblyInfo.cs
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.dll
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\refint\Ex001_HelloWorld.dll
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.pdb
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\Ex001_HelloWorld.genruntimeconfig.cache
+C:\Users\Faitum\Desktop\Example\Ex001_HelloWorld\obj\Debug\net6.0\ref\Ex001_HelloWorld.dll
